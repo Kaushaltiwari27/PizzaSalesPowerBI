@@ -76,8 +76,8 @@ The dashboard provides insights into customer ordering patterns, sales performan
 ## 🧑‍💻 Author
 
 **Kaushii Tiwari**  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile or Portfolio Link]  
+📧 kaushaltiwwari191@gmail.com  
+🔗 https://www.linkedin.com/in/kaushal-tiwari-294628227/
 
 ---
 
